@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fastlane-plugin-get_derived_data_path (0.1.0)
+    fastlane-plugin-get_derived_data_path (0.0.0)
 
 GEM
   remote: https://rubygems.org/
