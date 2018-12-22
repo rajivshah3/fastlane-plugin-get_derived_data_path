@@ -1,0 +1,6 @@
+Metrics/LineLength:
+  Enabled: false
+Naming/PredicateName:
+  Enabled: false
+Documentation:
+  Enabled: false
