@@ -64,3 +64,6 @@ DerivedData/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.gitignore.io/api/osx,xcode
+
+# SimpleCov
+coverage/
