@@ -1,6 +1,8 @@
 # get_derived_data_path plugin
 
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-get_derived_data_path)
+[![Build Status](https://travis-ci.com/rajivshah3/fastlane-plugin-get_derived_data_path.svg?branch=master)](https://travis-ci.com/rajivshah3/fastlane-plugin-get_derived_data_path)
+[![Maintainability](https://api.codeclimate.com/v1/badges/2a1c00aa17ae975680bb/maintainability)](https://codeclimate.com/github/rajivshah3/fastlane-plugin-get_derived_data_path/maintainability)
 
 ## Getting Started
 
