@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'rajivshah1@icloud.com'
 
   spec.summary       = 'Retrieves the path of a workspace in DerivedData'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-get_derived_data_path"
+  spec.homepage      = 'https://github.com/rajivshah3/fastlane-plugin-get_derived_data_path'
   spec.license       = 'MIT'
 
   spec.files         = Dir['lib/**/*'] + %w[README.md LICENSE]
