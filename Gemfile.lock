@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     fastlane-plugin-get_derived_data_path (0.0.0)
+      plist
 
 GEM
   remote: https://rubygems.org/
